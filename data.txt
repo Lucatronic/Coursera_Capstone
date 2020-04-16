@@ -1,2 +1,0 @@
-To solve the problem, Foursquare location data will be used to collect New York City coffee shops.
-Once the coffee shops of interest have been collected, we will precede the collection of the data of each of those coffee shops to obtain all their features. The main feature of interest of each coffee shop is its rating, this will be our target. All those features that have a strong correlation with the ratinf will be used.
